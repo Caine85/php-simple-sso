@@ -1,6 +1,6 @@
 <?php
 
-use Zefy\SimpleSSO\SSOServer;
+use Aperion\SimpleSSO\SSOServer;
 
 class Server extends SSOServer
 {
