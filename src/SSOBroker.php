@@ -1,8 +1,8 @@
 <?php
 
-namespace Zefy\SimpleSSO;
+namespace Aperion\SimpleSSO;
 
-use Zefy\SimpleSSO\Interfaces\SSOBrokerInterface;
+use Aperion\SimpleSSO\Interfaces\SSOBrokerInterface;
 
 /**
  * Class SSOBroker. This class is only a skeleton.
