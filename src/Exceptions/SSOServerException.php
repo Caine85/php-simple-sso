@@ -1,6 +1,6 @@
 <?php
 
-namespace Zefy\SimpleSSO\Exceptions;
+namespace Aperion\SimpleSSO\Exceptions;
 
 class SSOServerException extends \Exception
 {
