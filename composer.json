@@ -1,5 +1,5 @@
 {
-    "name": "caine85/php-simple-sso",
+    "name": "aperion/php-simple-sso",
     "description": "Simple PHP SSO",
     "keywords": ["sso", "authentication", "login"],
     "license": "MIT",
