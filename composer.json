@@ -1,5 +1,5 @@
 {
-    "name": "zefy/php-simple-sso",
+    "name": "aperion/php-simple-sso",
     "description": "Simple PHP SSO",
     "keywords": ["sso", "authentication", "login"],
     "license": "MIT",
@@ -7,6 +7,12 @@
         {
             "name": "Martynas Žaliaduonis",
             "email": "m.zaliaduonis@gmail.com"
+        },
+        {
+            "name": "Andrea Venanzi",
+            "email": "venanzi@aperion.net",
+            "homepage": "https://github.com/caine85",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -14,7 +20,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Zefy\\SimpleSSO\\": "src/"
+        "Aperion\\SimpleSSO\\": "src/"
       }
     }
 }
