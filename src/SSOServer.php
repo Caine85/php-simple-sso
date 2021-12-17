@@ -1,9 +1,9 @@
 <?php
 
-namespace Zefy\SimpleSSO;
+namespace Aperion\SimpleSSO;
 
-use Zefy\SimpleSSO\Exceptions\SSOServerException;
-use Zefy\SimpleSSO\Interfaces\SSOServerInterface;
+use Aperion\SimpleSSO\Exceptions\SSOServerException;
+use Aperion\SimpleSSO\Interfaces\SSOServerInterface;
 
 /**
  * Class SSOServer. This class is only a skeleton.
