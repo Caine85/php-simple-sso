@@ -1,6 +1,6 @@
 <?php
 
-use Zefy\SimpleSSO\SSOBroker;
+use Aperion\SimpleSSO\SSOBroker;
 use GuzzleHttp;
 
 class Broker extends SSOBroker
