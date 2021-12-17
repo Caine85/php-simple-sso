@@ -1,6 +1,6 @@
 <?php
 
-namespace Zefy\SimpleSSO\Interfaces;
+namespace Aperion\SimpleSSO\Interfaces;
 
 interface SSOBrokerInterface
 {
